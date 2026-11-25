@@ -1,0 +1,10 @@
+
+node_modules/
+dist/
+.env
+
+# Runtime data: SQLite database and the receipt signing key.
+server/data/
+data/
+certs/
+*.pem
